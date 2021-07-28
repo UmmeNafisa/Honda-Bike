@@ -14,6 +14,9 @@
             font-family: 'Poppins', sans-serif;
             font-weight: 600;
     }
+    .honda-color{
+        color: #E76F51;
+    }
 
 /* header part style  */
 .honda-bg-color{
@@ -29,4 +32,15 @@
 /* feture part  */
 .honda-img-grayscale{
     filter: grayscale(100%);
+}
+
+/* happy client part  */
+
+.honda-img-size{
+    width: 149px;
+    height: 149px;
+    margin-top: 40px;
+}
+.honda-regina-clr{
+    color: #23A6F0;
 }
