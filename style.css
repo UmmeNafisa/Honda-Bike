@@ -1,0 +1,24 @@
+/* google font link  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap');
+
+
+.honda-bg-color{
+    background-color: #264653;
+}
+.honda-btn-bg{
+    background-color: #E76F51;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.honda-font-300{
+font-family: 'Poppins', sans-serif;
+font-weight: 300;
+}
+.honda-font-500{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+.honda-font-600{
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+}
