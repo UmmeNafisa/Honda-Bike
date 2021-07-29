@@ -2,21 +2,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap');
 
 /* Utilities  style */
+body,html{
+    overflow-x: hidden;
+}
 .honda-font-300{
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
-    }
-    .honda-font-500{
+}
+.honda-font-500{
         font-family: 'Poppins', sans-serif;
         font-weight: 500;
-    }
-    .honda-font-600{
+}
+.honda-font-600{
             font-family: 'Poppins', sans-serif;
             font-weight: 600;
-    }
-    .honda-color{
+}
+.honda-color{
         color: #E76F51;
-    }
+}
 .honda-front-part-margin{
     margin: 15px 0px;
 }
