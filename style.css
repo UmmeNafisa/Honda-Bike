@@ -17,6 +17,9 @@
     .honda-color{
         color: #E76F51;
     }
+.honda-front-part-margin{
+    margin: 15px 0px;
+}
 
 /* header part style  */
 .honda-bg-color{
