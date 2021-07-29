@@ -28,11 +28,35 @@
     padding: 10px 20px;
 }
 
+/* What are we upto part */
+
+.img-hover-zoom {
+  /* height: 300px; [1.1] Set it as per your need */
+  overflow: hidden;
+}
+
+/* [2] Transition property for smooth transformation of images */
+.img-hover-zoom img {
+  transition: transform 1s ease;
+}
+
+/* [3] Finally, transforming the image when container gets hovered */
+.img-hover-zoom:hover img {
+  transform: scale(1.20);
+}
+.honda-upto-bg{
+    background-color: #f9f9f9;
+}
 
 /* feture part  */
 .honda-img-grayscale{
     filter: grayscale(100%);
 }
+.button {
+    background-color: #e76f51;
+    color: whitesmoke;
+}
+
 
 /* happy client part  */
 
